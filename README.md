@@ -1,5 +1,5 @@
-# breast-cancer
-breast cancer analysis for Gneteeva's data
+# Code for C60 paper
+Part of the data and source code for C60 paper
 
 Getting started
 -------------------
